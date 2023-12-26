@@ -1,16 +1,16 @@
-# Airbnb-Listings-Bangkok-Analysis
+# Airbnb Listings Bangkok Analysis
 
-### **Background**
+## **Background**
 Airbnb, a global online platform facilitating short-term lodging rentals, encompasses diverse accommodation options in numerous cities worldwide, including Bangkok, Thailand. The dataset in focus pertains specifically to Airbnb listings in Bangkok, providing comprehensive details about various accommodations, guest reviews, geographical distribution, and attributes associated with these listings.
 
-### **Problem Statement**
+## **Problem Statement**
 The dataset's objective is to analyze Airbnb Listings in Bangkok to extract insights for improving policies, enhancing host-guest trust, and optimizing the Airbnb experience. By identifying trends, understanding guest preferences, and addressing issues such as inadequate reviews or negative feedback, this analysis aims to guide Airbnb Bangkok in devising better strategies for hosts, renters, and guests. The fundamental question this analysis seeks to answer is:
 
 **"How Do Varied Booking Preferences Unfold Among Travelers on a Airbnb Rental Platform?"**
 
 Understanding user preferences and booking trends is crucial for improving customer experience and optimizing the platform's offerings. Both of these distinctions can assist in tailoring services, refining marketing strategies, and fostering a more conducive environment for both hosts and guests within the Airbnb ecosystem in Bangkok.
 
-### **Data Information**
+## **Data Information**
 
 | **Feature**               | **Description**                                                                             |
 |---------------------------|---------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ Understanding user preferences and booking trends is crucial for improving custo
 | `availability_365`        | Availability of the listing for x days in the future.                                          |
 | `number_of_reviews_ltm`   | The number of reviews the listing has received in the last 12 months.                          |
 
-### Getting Started
+## Getting Started
 
 1. **Clone the Repository:**
 
